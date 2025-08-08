@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-![Banner]([https://your-image-link-here.com/banner-image.jpg](https://i.ibb.co.com/TxRKCpJq/Linked-In-Banner.png))
+![Banner](https://i.ibb.co/TxRKCpJq/Linked-In-Banner.png)
+
 
 # GM Nayem  
 **Frontend Developer**
